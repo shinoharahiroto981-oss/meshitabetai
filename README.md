@@ -1,4 +1,4 @@
 ## klis_system_11
 
 #Team11
-This is a website which search restaurant by keyword
+条件に全く該当しないごはん屋と完全に一致するご飯屋さんがヒットする検索サイト
