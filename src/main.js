@@ -1,8 +1,10 @@
-import './style.css'
+import './style1.css'
+
+
 
 document.querySelector('#app').innerHTML = `
   <div class="container">
-    <h1>検索システム</h1>
+    <h1>レストラン審判</h1>
 
     <input
       type="text"
@@ -10,6 +12,7 @@ document.querySelector('#app').innerHTML = `
       placeholder="キーワードを入力"
       class="search-input"
     />
+
 
     <div class="buttons">
       <button id="matchBtn">ぜんぶ該当する</button>
